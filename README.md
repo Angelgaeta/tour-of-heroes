@@ -1,4 +1,4 @@
-# tour-of-heroes
+# Tour Of Heroes
 
 L' application Tour of Heroes aide une agence de recrutement à gérer sa panoplie de héros. L'application possède de nombreuses fonctionnalités que nous nous attendons à trouver dans n'importe quelle application basée sur les données.
 
