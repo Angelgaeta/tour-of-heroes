@@ -1,3 +1,5 @@
+# tour-of-heroes
+
 L' application Tour of Heroes aide une agence de recrutement à gérer sa panoplie de héros. L'application possède de nombreuses fonctionnalités que nous nous attendons à trouver dans n'importe quelle application basée sur les données.
 
 L'application terminée :
@@ -18,4 +20,4 @@ Ce tutoriel aide à gagner en confiance sur le fait qu'Angular peut faire tout c
     - Formater les données avec des tubes .
     - Créez un service partagé pour rassembler les héros.
     - Utilisez le routage pour naviguer entre les différentes vues et leurs composants.
-# tour-of-heroes
+
